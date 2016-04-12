@@ -1,2 +1,2 @@
 # my-repo
-My first repository on github
+Some changes to readme file
