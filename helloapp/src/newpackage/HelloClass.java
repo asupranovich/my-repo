@@ -10,5 +10,7 @@ package newpackage;
  * @author a.supranovich
  */
 public class HelloClass {
-    
+    public static void main(String arg[]) {
+        System.out.println("Hello!");
+    }
 }
