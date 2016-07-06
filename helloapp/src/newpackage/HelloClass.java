@@ -10,6 +10,11 @@ package newpackage;
  * @author a.supranovich
  */
 public class HelloClass {
+    
+    private static in() {
+        return 1;
+    }
+    
     public static void main(String arg[]) {
         System.out.println("Hello!");
     }
