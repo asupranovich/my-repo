@@ -14,8 +14,12 @@ public class HelperClass {
     public void help() {
         System.out.println("Doing some help");
     }
-    
+
     public void moreHelp() {
         System.out.println("More help");
+    }
+
+    public void mergeHelp() {
+
     }
 }
