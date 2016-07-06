@@ -18,4 +18,8 @@ public class HelperClass {
     public void moreHelp() {
         System.out.println("More help");
     }
+    
+    public void myMethod() {
+        
+    }
 }
