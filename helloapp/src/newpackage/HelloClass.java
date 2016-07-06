@@ -11,8 +11,12 @@ package newpackage;
  */
 public class HelloClass {
     
-    private static in() {
+    private static int getInt() {
         return 1;
+    }
+    
+    private static String getString() {
+        return "string";
     }
     
     public static void main(String arg[]) {
