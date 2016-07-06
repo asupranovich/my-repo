@@ -22,9 +22,4 @@ public class HelloClass {
     public static void main(String arg[]) {
         System.out.println("Hello!");
     }
-    
-    public static void showSomeOutput() {
-        System.out.println(getInt());
-        System.out.println(getString());
-    }
 }
